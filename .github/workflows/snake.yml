@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: AngelHernand
           outputs: |
-            dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
