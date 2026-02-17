@@ -1,7 +1,7 @@
 # Angel Hernandez
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=800&lines=Ingenier%C3%ADa+en+Sistemas+Computacionales+%7C+ESCOM-IPN;Backend+Developer+%7C+DevOps+%7C+Linux+Enthusiast;Cryptography+%7C+Computer+Vision+%7C+AI+Developer;Graphics+Programming+%7C+Vulkan+%7C+Game+Engines;Scout+Leader+%7C+Tech+Educator+%7C+Problem+Solver;Warhammer+40K+Enjoyer+%7C+Chaos+%7C+Slaanesh+Mindset" alt="Typing SVG" />
+  <img src="https://media.tenor.com/mejwhE-ed-QAAAAC/pixel-art-town.gif" width="500" alt="Pixel Art City"/>
 </div>
 
 ## Sobre mí
@@ -21,20 +21,6 @@ También soy líder scout, lo que me ha ayudado a desarrollar habilidades de lid
 - Desarrollo backend con ASP.NET Core, autenticación JWT, roles, permisos dinámicos y arquitectura escalable
 - Automatización en Linux, redes, túneles SSH, servidores, scripts y entornos virtualizados (WSL2/KVM/VMs)
 
-**Enfoque académico**
-
-- Proyecto de titulación orientado a software con seguridad y arquitectura moderna
-- Reportes técnicos, documentación y entregables profesionales
-
-## Filosofía personal
-
-Me obsesiona:
-- Diseñar software que sí se pueda mantener
-- Hacer que las cosas sean escalables
-- Automatizar todo lo repetitivo
-- Entender cómo funciona lo que uso (desde un algoritmo criptográfico hasta un kernel Linux)
-
-Y sí... también creo en perseguir la perfección aunque siempre exija más
 
 ## Áreas de interés
 
@@ -99,28 +85,8 @@ Y sí... también creo en perseguir la perfección aunque siempre exija más
 - Arquitectura de motores gráficos y game engines
 - Experimentos de optimización y rendering
 
-## Habilidades extra
 
-- Explico temas técnicos con claridad (me gusta enseñar)
-- Liderazgo y organización gracias al movimiento scout
-- Documentación profesional (FURBS, FORPS, reportes técnicos)
-- Experiencia montando entornos complejos con VMs y redes
-- Creatividad aplicada (desde UI hasta ideas de sistemas completos)
-
-## Fun Fact / Personal Vibe
-
-Fan de Warhammer 40K, especialmente el caos...  
-Slaanesh y Emperor's Children como filosofía: perfección, obsesión, evolución constante.
-
-## Aprendizaje Continuo
-
-Actualmente explorando:
-- Arquitectura de sistemas distribuidos
-- DevOps avanzado y automatización
-- Machine Learning / Deep Learning
-- Seguridad aplicada en software real
-- Programación gráfica con Vulkan
-- Optimización matemática y algoritmos
+ Optimización matemática y algoritmos
 
 ## Estadísticas de GitHub
 
@@ -163,8 +129,7 @@ Actualmente explorando:
 
 **Ubicación:** México  
 **Enfoque:** Backend / DevOps / Security / AI  
-**Email:** [Tu correo aquí]  
-**LinkedIn:** [Tu LinkedIn aquí]
+**Email:** hernandezdiazrobertoangel@gmail.com  
 
 <div align="center">
 
