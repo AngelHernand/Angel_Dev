@@ -1,9 +1,8 @@
 # Angel Hernandez
 
 <div align="center">
-  <img src="https://media1.tenor.com/m/mejwhE-ed-QAAAAC/pixel-art-town.gif" width="500" alt="Pixel Art City"/>
+  <img src="pixel-art-town.gif" width="500" alt="Pixel Art City"/>
 </div>
-
 ## Sobre mí
 
 Estudiante de Ingeniería en Sistemas Computacionales en ESCOM - IPN con una fuerte pasión por el desarrollo de software, la automatización y la construcción de sistemas reales con enfoque profesional.
