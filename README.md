@@ -10,7 +10,7 @@ Computer Systems Engineering student at ESCOM - IPN with a strong passion for so
 
 I enjoy working on projects that mix backend, security, infrastructure, cryptography, and experimental things like computer vision, ONNX models, or even graphics programming with Vulkan.
 
-I'm also a scout leader, which has helped me develop leadership, communication, and technical teaching skills.
+I'm also a scout, which has helped me develop leadership, communication, and technical teaching skills.
 
 ## Currently working on
 
